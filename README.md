@@ -50,8 +50,7 @@ styles
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Keyshaaz-zahra/elegant-notes-app.git
-cd elegant-notes-app
+https://github.com/Keyshaaz-zahra/elegant-notes-app
 ```
 
 ### 2️⃣ Install dependencies
