@@ -71,7 +71,8 @@ flutter run
 
 | Light Mode | Dark Mode |
 |-------------|------------|
-| <img src="https://github.com/user-attachments/assets/placeholder1" width="300"/> | <img src="https://github.com/user-attachments/assets/placeholder2" width="300"/> |
+| <img src="https://raw.githubusercontent.com/Keyshaaz-zahra/elegant_notes_app/main/lib/elegant_app/img/lightmode.png" width="300"/> | <img src="https://raw.githubusercontent.com/Keyshaaz-zahra/elegant_notes_app/main/lib/elegant_app/img/darkmode.png" width="300"/> |
+
 
 ---
 
